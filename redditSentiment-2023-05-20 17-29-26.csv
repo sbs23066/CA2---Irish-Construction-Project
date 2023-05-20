@@ -1,0 +1,81 @@
+Subreddit,Original Title,Title,housing market,housing,property,real estate,construction,building,infrastructure,labor,wages,Match,neg,neu,pos,compound,label
+ireland,"""wE nEeD a LaRGe proTEsT In DuBLIn""... ""whO iS RuNNiNG tHIs PrOTeST""... ""THis dOEsn'T rEPreSeNT mY eXPerIEnCE oF tHE HoUSiNg CRiSiS!!""",need large protest dublin running protest doesnt represent experience housing crisis,0,1,0,0,0,0,0,0,0,1.0,0.503,0.497,0.0,-0.7964,neg
+ireland,Housing Crisis,housing crisis,0,1,0,0,0,0,0,0,0,1.0,0.804,0.196,0.0,-0.6249,neg
+europe,"BBC Radio 4 - L'origine de L'Origine du monde (2016) ""L'Origine du Monde is perhaps the most notorious and explicit painting housed in a public museum. Viv Groskop, a huge admirer of the work, visits the museum to talk to visitors about their responses to the painting.""",bbc radio 4 lorigine de lorigine du monde 2016 lorigine du monde perhaps notorious explicit painting housed public museum viv groskop huge admirer work visits museum talk visitors responses painting,0,0,0,0,0,0,0,0,0,,0.085,0.765,0.15,0.296,pos
+europe,"Lichtenstein Castle, Germany.",lichtenstein castle germany,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+europe,"r/Mexico is looking for an European monarch to rule us again, who do you recommend?",r mexico looking european monarch rule us recommend,0,0,0,0,0,0,0,0,0,,0.0,0.706,0.294,0.3612,pos
+europe,FIFA World Cup Final: France-Croatia,fifa world cup final francecroatia,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+europe,Assignés pour signer,assigned sign,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+europe,"Philippe of Belgium, Belgium's reigning king, is probably a natural-born American citizen",philippe belgium belgiums reigning king probably naturalborn american citizen,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+germany,The chicken and the egg of the German Housing Crisis (well as a foreigner),chicken egg german housing crisis well foreigner,0,1,0,0,0,0,0,0,0,1.0,0.366,0.446,0.188,-0.4588,neg
+germany,What Americans should know before they leave the US to claim asylum in Germany,americans know leave us claim asylum germany,0,0,0,0,0,0,0,0,0,,0.167,0.833,0.0,-0.0516,neg
+germany,As a member of LGBTQ family where is the best place to live in Germany (except for Berlin)?,member lgbtq family best place live germany except berlin,0,0,0,0,0,0,0,0,0,,0.0,0.656,0.344,0.6369,pos
+germany,Alternatives to Starbucks/espresso house??,alternatives starbucks espresso house,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+germany,"Kaution Beitrittsgeld in Höhe von 100,00 € sowie 6 Geschäftsanteile in Höhe von je 153,00 €.",deposit joining fee 100 00 6 shares 153 00,0,0,0,0,0,0,0,0,0,,0.0,0.761,0.239,0.296,pos
+germany,"Compilation on German Dating culture shock questions. This time, non-EU guy dating a German girl.",compilation german dating culture shock questions time noneu guy dating german girl,0,0,0,0,0,0,0,0,0,,0.191,0.809,0.0,-0.3818,neg
+germany,Ganztagschule forcing lunch orders?,allday school forcing lunch orders,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+germany,"Here is my draft for a FAQ health insurance, now I need your feedback",draft faq health insurance need feedback,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+germany,Help finding the origin of a family tradition from Germany,help finding origin family tradition germany,0,0,0,0,0,0,0,0,0,,0.0,0.649,0.351,0.4019,pos
+germany,Chocolate German snack,chocolate german snack,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+germany,My friend found a really nice flat in Hamburg but we have suspicions,friend found really nice flat hamburg suspicions,0,0,0,0,0,0,0,0,0,,0.195,0.313,0.492,0.5849,pos
+germany,Du or Sie- need help with a practical situation with a German!,du sie need help practical situation german,0,0,0,0,0,0,0,0,0,,0.0,0.69,0.31,0.4019,pos
+germany,Morning in Garmisch,morning garmisch,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Logement pour étudiants à Bordeaux,accommodation students bordeaux,0,1,0,0,0,0,0,0,0,1.0,0.0,1.0,0.0,0.0,neu
+france,Mon expérience au Danemark,experience denmark,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Le problème c'est pas le capitalisme,problem capitalism,0,0,0,0,0,0,0,0,0,,0.73,0.27,0.0,-0.4019,neg
+france,Sans-abri - Le lancement du logement d'abord,homeless launch housing first,0,1,0,0,0,0,0,0,0,1.0,0.0,1.0,0.0,0.0,neu
+france,Recherche ressource fiable et neutre sur le sujet de l'achat immobilier,search reliable neutral resource subject real estate purchase,0,0,0,1,0,0,0,0,0,1.0,0.0,1.0,0.0,0.0,neu
+france,Vue d'ensemble de la finance aujourd'hui,overview finance today,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Excusez-moi. J'ai utilisé Google Traduction. Déménager en france.,excuse used google translate move france,0,0,0,0,0,0,0,0,0,,0.0,0.794,0.206,0.0772,pos
+france,"Bonjour! Je vais aller en France ce automne pour étudier, et j'ai besoin de conseil pour un compte du banque.",good morning im going france fall study need advice bank account,0,0,0,0,0,0,0,0,0,,0.0,0.775,0.225,0.4404,pos
+france,a partir de quand un habitat est acceptable et quand est-ce qu'il l'est pas ?,habitat acceptable,0,0,0,0,0,0,0,0,0,,0.0,0.303,0.697,0.3182,pos
+france,Une histoire une peu mignonne.,bit cute story,0,0,0,0,0,0,0,0,0,,0.0,0.4,0.6,0.4588,pos
+france,Conseil juridique en gestion du patrimoine,legal advice wealth management,0,0,0,0,0,0,0,0,0,,0.0,0.299,0.701,0.5719,pos
+france,[Musique] Connaissez-vous le Drift Phonk?,music know drift phonk,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Question about etiquette concerning whether or not I should ask French coworker to a (friendly) dinner with my family.,question etiquette concerning whether ask french coworker friendly dinner family,0,0,0,0,0,0,0,0,0,,0.0,0.738,0.262,0.4939,pos
+france,Mise à jour Coronavirus 18-03-2020,coronavirus update 18032020,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"""La dernière demeure de l'Empereur"" - Longwood House, Domaines Français de Saint-Hélène, France (Enclave du Royaume-Uni)",emperors last resting place longwood house french estates saint helena france enclave united kingdom,0,0,0,0,0,0,0,0,0,,0.0,0.823,0.177,0.4215,pos
+france,"Studying abroad in Lyon, looking for short term apartments.",studying abroad lyon looking short term apartments,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Je suis curieux de connaître votre perception du drapeau allemand.,im curious perception german flag,0,0,0,0,0,0,0,0,0,,0.0,0.635,0.365,0.3182,pos
+france,"A 25 ans, j'ai l'impression d'avoir fait le tour des jeux vidéos, et cela m'effraie",25 feel like ive done rounds video games scares,0,0,0,0,0,0,0,0,0,,0.202,0.588,0.21,0.0258,neu
+france,Les USA viennent tout juste de tuer complètement la relève scientifique!,usa completely killed next generation scientists,0,0,0,0,0,0,0,0,0,,0.489,0.511,0.0,-0.6997,neg
+france,J'ai (encore) quelques questions pour les expatriés au Japon :),still questions expats japan,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Acheter un terrain à plusieurs ?,buying land together,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Stage de préparation du XV de France à la Légion étrangere,preparatory course xv france foreign legion,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,A la recherche d’un casque audio,looking headphones,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Declaration of Emergency and Authorization for Temporary Extensions of Time and Duty-Free Importation of Solar Cells and Modules from Southeast Asia | The White House,declaration emergency authorization temporary extensions time dutyfree importation solar cells modules southeast asia white house,0,0,0,0,0,0,0,0,0,,0.157,0.843,0.0,-0.3818,neg
+france,"Des études sérieuses ont-elles été menées sur le ""vapotage passif"" ?",serious studies carried passive vaping,0,0,0,0,0,0,0,0,0,,0.213,0.492,0.295,0.128,pos
+france,Divorce related help?,divorce related help,0,0,0,0,0,0,0,0,0,,0.0,0.426,0.574,0.4019,pos
+france,Anonymous virements emis et prelevements,anonymous transfers issued direct debits,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Témoignage d'un urgentiste,testimonial emergency physician,0,0,0,0,0,0,0,0,0,,0.565,0.435,0.0,-0.3818,neg
+france,Peut-on acheter un bout de terrain chez quelqu'un?,buy piece land someone,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Est-ce que quelqu'un est/a été dans mon cas ? (errance médicale),anyone like medical wandering,0,0,0,0,0,0,0,0,0,,0.0,0.545,0.455,0.3612,pos
+france,[Lundi Playlist] Faire l'amour en musique : la playlist du sexe,monday playlist making love music sex playlist,0,0,0,0,0,0,0,0,0,,0.0,0.588,0.412,0.6369,pos
+france,Je besoin aider avec mon francais,need help french,0,0,0,0,0,0,0,0,0,,0.0,0.426,0.574,0.4019,pos
+france,C:\Utilisateurs\France\Coupe du Monde,c users france world cup,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,[Lundi Playlist] La meilleure soirée,monday playlist best night,0,0,0,0,0,0,0,0,0,,0.0,0.417,0.583,0.6369,pos
+france,Jeux vidéos en mode détente,video games relaxation mode,0,0,0,0,0,0,0,0,0,,0.0,0.469,0.531,0.5267,pos
+france,La Hype 2017 ? [Playlist du Lundi],hype 2017 monday playlist,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Netflix et équivalents: discussion pour leur arrivée en France,netflix equivalents discussion arrival france,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Techno parties/festivals sur Lyon/Paris en juillet ?,techno parties festivals lyon paris july,0,0,0,0,0,0,0,0,0,,0.0,0.435,0.565,0.6369,pos
+france,Zemmour roule pour le RN ?,zemmour rolls rn,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Stolen camera at the Dune du Pilat,stolen camera dune du pilat,0,0,0,0,0,0,0,0,0,,0.444,0.556,0.0,-0.4939,neg
+france,[EUREDDISION 2019] Sélection nationale - FRANCE 🎺🎺,eureddision 2019 national selection france,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Question for everyone!,question everyone,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"Des redditeurs de /r/France ou leurs proches ont-ils participé au ""Duo Day 2018"" [tous les binômes valides-personnes en situation de handicap dans le post] ou regardé des émissions TV/lu des articles sur cette opération pour l'inclusion aujourd'hui ?",redditors r france relatives participated duo day 2018 ablebodied pairspersons disabilities post watched tv shows read articles operation inclusion today,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"/r/France, c'est quoi ta playlist de 2016 ? [On fait l'Bilan]",r france whats 2016 playlist take stock,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,A la recherche de chansons en anglais reprises en français,looking songs english covered french,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"[Lundi Playlist] ""Es ist Montag, meine Kerle!"" : La Playlist germanophone",lundi playlist monday fellas la playlist germanophone,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"[Lundi Playlist hors série] ""MFPAPPJWFA"" - Music French People Actually Play at a Party or Just With Friends Around",lundi playlist hors série mfpappjwfa music french people actually play party friends around,0,0,0,0,0,0,0,0,0,,0.0,0.549,0.451,0.802,pos
+france,Le Brexit cette semaine en simplifié,brexit week simplified,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,[Lundi Playlist] Sortis de nulle part : la playlist des chefs d'oeuvre inconnus,monday playlist nowhere playlist unknown masterpieces,0,0,0,0,0,0,0,0,0,,0.363,0.637,0.0,-0.431,neg
+france,[Lundi Playlist] Le meilleur de 2017,monday playlist best 2017,0,0,0,0,0,0,0,0,0,,0.0,0.417,0.583,0.6369,pos
+france,"Je reviens des Trans Musicales de Rennes et je vous ai fait une petite sélection des groupes qui, je pense, sont à suivre",came back trans musicales de rennes made small selection groups think follow,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,2 décembre 1859 Lettre de Victor Hugo à l'Amérique .,december 2 1859 letter victor hugo america,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"Je reviens des Transmusicales de Rennes, je vous ai fait une petite playlist de mes découvertes",came back transmusicales de rennes made little playlist discoveries,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Besoin d'aide pour la traduction de Carmen Murdered de Spike Jones !,need help translating spike jones carmen murdered,0,0,0,0,0,0,0,0,0,,0.364,0.413,0.223,-0.4019,neg
+france,Navigateur Opera en déclin,opera browser decline,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,Sérieusement : Quels sont les médias/think tanks d'élites ou s'informe l'élite?,seriously elite media think tanks elite get information,0,0,0,0,0,0,0,0,0,,0.195,0.805,0.0,-0.1779,neg
+france,Projet D3C1B3L B0T,project d3c1b3l b0t,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
+france,"Another ""I'm moving to France, i need work"" post... Sorry",another im moving france need work post sorry,0,0,0,0,0,0,0,0,0,,0.157,0.843,0.0,-0.0772,neg
+france,Minecraft: une communauté de /r/france ?,minecraft community r france,0,0,0,0,0,0,0,0,0,,0.0,1.0,0.0,0.0,neu
